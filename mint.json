@@ -5,7 +5,7 @@
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://cdn.astroslounge.com/?image=internal/39e4d6780593030c65b1f7a05f5e7aec-removebg-preview.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -36,21 +36,7 @@
     }
   ],
   "anchors": [
-   // {
-   //   "name": "Documentation",
-   //   "icon": "book-open-cover",
-   //   "url": "https://mintlify.com/docs"
-   // },
-   // {
-   //   "name": "Community",
-   //   "icon": "slack",
-   //   "url": "https://mintlify.com/community"
-   // },
-   // {
-   //   "name": "Blog",
-   //   "icon": "newspaper",
-   //   "url": "https://mintlify.com/blog"
-   // }
+
   ],
   "navigation": [
     {
@@ -88,8 +74,6 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+  
   }
 }
